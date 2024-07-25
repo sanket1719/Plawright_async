@@ -2,4 +2,3 @@ pytest
 pytest-asyncio
 pytest-html
 playwright
-playwright install
