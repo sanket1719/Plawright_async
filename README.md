@@ -9,25 +9,6 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.8+
 - Pip (Python package installer)
 
-## Project Structure
-
-project_root/
-├── conftest.py
-├── data.json (or user_data.json)
-├── src/
-│ ├── infra/
-│ │ └── page_objects/
-│ │ └── login/
-│ │ └── login_page.py
-│ │ └── platform/
-│ │ └── dashboard/
-│ │ └── dashboard_page.py
-│ ├── tests/
-│ │ ├── test_login.py
-│ │ |── test_data.py
-└── ...
-
-
 ## Setup
 
 1. **Clone the repository**:
